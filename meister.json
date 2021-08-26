@@ -1,0 +1,30 @@
+{
+    "tagmesaj": "Weyn, Vs",  
+     "NOT": "Alttaki tag kısmı kayıt için gereklidir isterseniz kaldırabilirsiniz bunun yaptığı şey kayıt edilen kişinin adının sonuna tagınızı koymak",
+    "tag": ["Weyn"],
+    "etikettag": [""],
+    "sunucuid": "",
+    
+    "yesemoji": "",
+    "noemoji": "",
+    "tatlisemoji": "<a:sallan:863200759776935938>",
+    
+    "tagrol": "",
+    "erkekrol": "863196548413653044",
+    "erkekrol2": "",
+    "kadınrol": "",
+    "kadınrol2": "",
+    "kayıtsızrol": "",
+    "jailrol": "",
+    "viprol": "863374409451569153",
+    
+    "botses": "",
+    "hosgeldinkanal": "",
+    "sohbetkanal": "862725312349732874",
+    "komutkanal": "863371631408709683",
+    "kayıtlog": "863204775053754418",
+    "taglog": "",
+    
+    "yetkili": ["863197257423912970"]
+    }
+    

@@ -1,0 +1,1 @@
+Bu altyapı şahsıma yani meister?#1337 ye aittir herhangi bir sorunda bana ulaşabilirsiniz eğer çalan bir kişi olursa gereği yapılacaktır.
